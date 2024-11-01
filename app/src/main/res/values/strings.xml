@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">KPT</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_select">Select</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="welcome">"Welcome "</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be 5 characters or more</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="customer_service">Customer Service</string>
+    <string name="rating_app">Rating App</string>
+    <string name="bahagian">Bahagian</string>
+    <string-array name="division">
+        <item>Select Division</item>
+        <item>BAD</item>
+        <item>BG</item>
+        <item>BKK</item>
+        <item>BP</item>
+        <item>BSM</item>
+        <item>JB</item>
+        <item>JS</item>
+        <item>PNC</item>
+        <item>PP</item>
+        <item>PTNC</item>
+        <item>PPA</item>
+        <item>UI</item>
+        <item>WEZ</item>
+    </string-array>
+    <string name="title_activity_feedback">Feedback</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="excellent">Excellent</string>
+    <string name="average">Average</string>
+    <string name="poor">Poor</string>
+    <string name="thankyou">Thank You</string>
+    <string name="foryourfeedback">For Your Feedback !</string>
+    <string name="exit">Exit</string>
+    <string name="summary">Summary</string>
+    <string name="reset">Reset</string>
+    <string name="overall">Overall</string>
+</resources>
